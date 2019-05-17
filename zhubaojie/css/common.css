@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body{
+    font-family: "Microsoft Yahei";
+}
+
+.fl {
+    float:left;
+}
+
+.fr {
+    float:right;
+}
+
+a{
+    cursor: pointer;
+}
